@@ -19,16 +19,14 @@ This is the file to input all the student names. Keep in mind only first names a
 
 #### Usage
 If the file contains:
-<code>  
-  <pre>  
-    John
-    Henry
-    Jacob H
-    Claire_H
-    Claire_M
-    Jooniper
-  </pre>  
-</code>
+>  John  
+>  Henry  
+>  Jacob H  
+>  Claire_H  
+>  Claire_M  
+>  Jooniper
+   
+
 This will sort the names <code> John, Henry, Jacob, Claire_H, Claire_M, Jooniper</code>.
 
 <hr width="50%">
