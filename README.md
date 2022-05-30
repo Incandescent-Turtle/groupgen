@@ -1,6 +1,6 @@
 # 🛠️ Group Generator
-Creates groups for classes and things. 
-<a href="https://github.com/Incandescent-Turtle/groupgen/raw/main/nameGame.jar">Click to download runnable jar</a>
+Creates groups for classes and things. <br>
+<a href="https://github.com/Incandescent-Turtle/groupgen/raw/main/nameGame.jar">Click here to download runnable jar</a>
 ![example](https://user-images.githubusercontent.com/59327500/160219718-da45f97d-d0f6-4dac-b6a2-918511647795.gif)
 
 ---
